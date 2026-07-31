@@ -17,7 +17,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- **Name:** Carl Joseph R. Santos
+- **Name:** Roi Vinzon D. Macaraeg
 - **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 3rd Year
 - **Instructor:** _______________________
 - **School Year:** 2026–2027
