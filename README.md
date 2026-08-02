@@ -19,7 +19,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 - **Name:** Roi Vinzon D. Macaraeg
 - **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 3rd Year
-- **Instructor:** _______________________
+- **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
 ---
@@ -48,15 +48,9 @@ cloud-computing-course/
 
 ---
 
-## 💡 Markdown Tips
-
-- Use `#` for headings
-- Use `-` or `*` for bullet lists
-- Use `**bold**` for important text
-- Use `[Link](https://example.com)` for hyperlinks
-
 ---
 
 ### Repository Goal
 
-This repository documents my learning journey in Cloud Computing and demonstrates the proper use of Git and GitHub for organizing, tracking, and managing course activities and projects.
+This repository documents my learning journey in Cloud Computing and demonstrates the proper use of Git and GitHub for organizing, tracking, and managing course activities and projects. It also reflects my growing understanding of cloud service and deployment models through consistent hands-on practice, version control, and structured documentation.
+***
